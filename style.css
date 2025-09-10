@@ -85,3 +85,14 @@ form img{
     background: #22cf00;
     width: 98%;
 }
+
+
+@media screen and (max-width: 600px){
+    body{
+        padding-inline: 20px;
+    }
+    form{
+        margin-top: 100px;
+        width: auto;
+    }
+}
